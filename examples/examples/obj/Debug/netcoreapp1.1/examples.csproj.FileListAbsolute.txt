@@ -1,0 +1,9 @@
+D:\Programowanie\ASP.NET\dotNET CORE in memory caching\examples\examples\bin\Debug\netcoreapp1.1\examples.deps.json
+D:\Programowanie\ASP.NET\dotNET CORE in memory caching\examples\examples\bin\Debug\netcoreapp1.1\examples.runtimeconfig.json
+D:\Programowanie\ASP.NET\dotNET CORE in memory caching\examples\examples\bin\Debug\netcoreapp1.1\examples.runtimeconfig.dev.json
+D:\Programowanie\ASP.NET\dotNET CORE in memory caching\examples\examples\bin\Debug\netcoreapp1.1\examples.dll
+D:\Programowanie\ASP.NET\dotNET CORE in memory caching\examples\examples\bin\Debug\netcoreapp1.1\examples.pdb
+D:\Programowanie\ASP.NET\dotNET CORE in memory caching\examples\examples\obj\Debug\netcoreapp1.1\examples.csprojResolveAssemblyReference.cache
+D:\Programowanie\ASP.NET\dotNET CORE in memory caching\examples\examples\obj\Debug\netcoreapp1.1\examples.AssemblyInfo.cs
+D:\Programowanie\ASP.NET\dotNET CORE in memory caching\examples\examples\obj\Debug\netcoreapp1.1\examples.dll
+D:\Programowanie\ASP.NET\dotNET CORE in memory caching\examples\examples\obj\Debug\netcoreapp1.1\examples.pdb
